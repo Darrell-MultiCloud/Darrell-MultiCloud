@@ -32,14 +32,10 @@
 ## Blog Posts (apologies on the lack of updates...) &#x270d; 
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement Code Splitting in React with Suspense](https://www.medicine2code.com/posts/implement-code-splitting-in-react-with-suspense)
-- [Essential VS Code Extensions For Remote Work](https://www.medicine2code.com/posts/essential-vs-code-extensions-for-remote-work)
-- [Use Hooks + Context, not React + Redux](https://www.medicine2code.com/posts/how-to-manage-state-in-react)
-- [Why I went from Pharmacy to pursue Coding](https://www.medicine2code.com/posts/why-i-went-from-pharmacy-to-coding)
-- [Building RESTful APIs with Node, Sequelize & PostgresQL](https://www.medicine2code.com/posts/building-restful-apis-with-node-sequelize-and-postgresql)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [click for more blog posts...](https://medicine2code.com)
+➡️ [click for more blog posts...]
 <br />
 <br />
 
