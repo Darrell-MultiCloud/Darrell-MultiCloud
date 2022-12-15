@@ -8,7 +8,7 @@
 
 
 ## How to get in touch 📬
-[![Linkedin Badge](https://img.shields.io/badge/-Darrell_Humphries-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tien-phan-dc/)](https://www.linkedin.com/in/darrell-humphries-26740662/)
+[![Linkedin Badge](https://img.shields.io/badge/-Darrell_Humphries-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darrell-humphries-26740662/)
 [![Gmail Badge](https://img.shields.io/badge/-Darrell.MultiCloud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Darrell.MultiCloud@gmail.com)](mailto:Darrell.MultiCloud@gmail.com)
 [![Wordpress Badge](https://img.shields.io/badge/Blog-Medicine2Cloud-blue)](https://)
 <br />
