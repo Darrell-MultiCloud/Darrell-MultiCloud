@@ -30,6 +30,11 @@
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
+![Prometheus](https://img.shields.io/badge/prometheus-%23CC342D.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana%20-%23323330.svg?&style=for-the-badge&logo=grafana&logoColor=%23F7DF1E)
+![Newrelic](https://img.shields.io/badge/newrelic%20-hotpink.svg?&style=for-the-badge&logo=newrelic&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog%20-%2320232a.svg?&style=for-the-badge&logo=datadog&logoColor=%2361DAFB)
+![Jenkins](https://img.shields.io/badge/jenkins%20-%2343853D.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## Blog Posts (apologies on the lack of updates...) &#x270d; 
 
