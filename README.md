@@ -2,7 +2,7 @@
 
 ## I am a cloud developer, flexologist, teacher, student, and sports enthusiast!
 
-- :book: I’m currently learning concurrency 🤓
+- :book: I’m currently learning "Builing Secure $ Reliable Systems", "The Site Reliability Workbook", Site Reliability Engineering" 🤓
 - :dart: 2023 Goals: 1) Get AWS solutions architech-certified & 2) Start attending developer conferences
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
