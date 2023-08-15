@@ -47,7 +47,7 @@
 <br />
 
 ## GitHub Stats &#x1f4c8; 
-![Darrell's github stats](https://github-readme-stats.vercel.app/api?username=darrell-multicloud&show_icons=true&theme=dracula)
+##![Darrell's github stats](https://github-readme-stats.vercel.app/api?username=darrell-multicloud&show_icons=true&theme=dracula)
 
 ## "He who has begun is half done" -The great poet Nasir Jones
 ## Thank you for visiting! ✌ ![visitors](https://visitor-badge.glitch.me/badge?page_id=darrell.multicloud.visitor-badge)
