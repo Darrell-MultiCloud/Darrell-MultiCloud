@@ -1,6 +1,6 @@
 # Allow me to introduce myself, my name is Darrell<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
 
-## I am a cloud developer, flexologist, and sports enthusiast!
+## I am a cloud developer building solutions using DevOps Principles and modern technology!
 
 - :book: I’m currently learning "Builing Secure $ Reliable Systems", "The Site Reliability Workbook", Site Reliability Engineering" 🤓
 - :dart: 2023 Goals: 1) Get AWS solutions architech-certified & 2) Start attending developer conferences
